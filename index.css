@@ -91,6 +91,7 @@ ul li a{
    color: rgb(255, 255, 255); 
    padding: 5px;
    margin-left: 40px;
+
    /* margin-right: -50%; */
  
 
@@ -107,6 +108,7 @@ h1{
     background-color: #daf5fa;
     padding: 10px;
     border-radius: 20px;
+    text-transform: uppercase;
 }
 
 .footer{
@@ -403,6 +405,7 @@ a:hover{
     width: 55%;
     height: 50%;
     margin-left: 15%;
+    margin-top: 12%;
 
 }
 .photograph{
@@ -411,13 +414,27 @@ height: 50%;
 margin-top: 45%;
 margin-left: 35%;
 }
-h1.photograph{
+h1.trans{
     color: black;
+    font-family: 'Fraunces',serif;
+    
     }
+   
 h1.transform{
     color: black;
     font-family: 'Fraunces',serif;
+    
     }
+    .transform h3{
+        color: rgb(105, 105, 105);
+        margin-left: 9%;
+        
+        }
+        .transform a{
+            color: rgb(7, 1, 1);
+            margin-left: 9%;
+            
+            }
     .design{
         width: 50%;
         height: 50%;
@@ -440,6 +457,12 @@ h1.transform{
                 margin-left: 2%;
                 font-size: 35px;
             }
+            .stand h3{
+                color: hsl(0, 0%, 47%);
+                font-family: 'Fraunces',serif;
+                margin-left: 2%;
+                font-size: 20px;
+            }
             h1.learn{
                 font-size: 15px;
                 font-family: 'Fraunces',serif;
@@ -447,6 +470,7 @@ h1.transform{
             .transform a{
                 text-decoration: none;
                 color: black;
+                margin-left: 8%;
             }
             .stand a{
                 text-decoration: none;
