@@ -137,7 +137,7 @@ h1{
 } 
 .footer3{
     background-color:  #C7EEF6;
-    height: 450px;
+    height: 500px;
     margin-left: 0%;
     margin-top: -0%;
     display: flex;
@@ -193,18 +193,29 @@ h1{
     display: flex;
 }
 
-.trans{
-    margin-left: 30%;
-    margin-top: 20%;
+h1.trans{
+    margin-left: 10%;
+    margin-top: 10%;
 }
 .trans2{
-    margin-left: 30%;
+    margin-left: 1%;
+    margin-top: 10%;
+    color: rgb(53, 52, 52);
+
+}
+h3.trans2{
+    margin-left: 1%;
     margin-top: 5%;
+    color: rgb(53, 52, 52);
+
 }
 div.footer_1{
     
     height: 450px;
     width: 80%;
+}
+.footer3 div.footer_1{
+    height: 500px;
 }
 .footer4 div.footer_1{
    margin-top: 0%;
@@ -223,7 +234,7 @@ div.footer_1{
  #footer_oo{
     /* background-color: rgb(128, 0, 0); */
     /* background-image: url(images/desktop/image-transform.jpg); */
-    background-color: rgb(201, 143, 143);
+    background-color: #ffffff;
     margin-left: 0%;
     width: 80%;
     /* width: 60%; */
@@ -367,6 +378,7 @@ div.footer_1{
 }
 .footer7 ul li a{
 color: #0e4d40;
+margin-right: 30px;
 }
 .footer7 ul li a:hover{
 color: white;
@@ -374,8 +386,8 @@ background-color: #76D7C4;
 }
 .socialmedia {
     margin-top: 22% ;
-    margin-left: -25%;
-    color: #0E6655;
+    margin-left: -23%;
+    color: hsl(167, 40%, 24%);
 }
 a{
     color: #0E6655;
@@ -383,3 +395,45 @@ a{
 a:hover{
     color: white;
 }
+.arrow{
+    margin-left: 50%;
+    margin-top: -0%;
+}
+.transform{
+    width: 55%;
+    height: 50%;
+    margin-left: 15%;
+}
+.photograph{
+width: 50%;
+height: 50%;
+margin-top: 45%;
+margin-left: 35%;
+}
+h1.trans{
+    color: black;
+    }
+    .design{
+        width: 50%;
+        height: 50%;
+        margin-top: 45%;
+        margin-left: 35%;
+        }
+        .design h1{
+            color: hsl(167, 40%, 24%);
+            margin-left: 2%;
+        }
+        .stand{
+            width: 50%;
+            height: 50%;
+            margin-top: 20%;
+            margin-left: 35%;
+            }
+            .stand h1{
+                color: hsl(180, 14%, 3%);
+                margin-left: 2%;
+                font-size: 35px;
+            }
+            h1.learn{
+                font-size: 15px;
+            }
