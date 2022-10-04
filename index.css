@@ -403,6 +403,7 @@ a:hover{
     width: 55%;
     height: 50%;
     margin-left: 15%;
+
 }
 .photograph{
 width: 50%;
@@ -410,8 +411,12 @@ height: 50%;
 margin-top: 45%;
 margin-left: 35%;
 }
-h1.trans{
+h1.photograph{
     color: black;
+    }
+h1.transform{
+    color: black;
+    font-family: 'Fraunces',serif;
     }
     .design{
         width: 50%;
@@ -431,9 +436,19 @@ h1.trans{
             }
             .stand h1{
                 color: hsl(180, 14%, 3%);
+                font-family: 'Fraunces',serif;
                 margin-left: 2%;
                 font-size: 35px;
             }
             h1.learn{
                 font-size: 15px;
+                font-family: 'Fraunces',serif;
+            }
+            .transform a{
+                text-decoration: none;
+                color: black;
+            }
+            .stand a{
+                text-decoration: none;
+                color: black;
             }
